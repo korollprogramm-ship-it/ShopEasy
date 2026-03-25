@@ -1,4 +1,4 @@
-name: ai_business_agent
+name: name: shopeasy
 description: AI-агент для бизнеса с каталогом товаров и системой заказов
 publish_to: 'none'
 version: 1.0.0+1
